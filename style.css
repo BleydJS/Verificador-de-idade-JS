@@ -1,0 +1,26 @@
+body{
+background-color: beige;
+}
+header{
+text-align: center;
+}
+
+section{
+margin: auto;
+background-color: rgb(255, 255, 255);
+color: rgb(0, 0, 0);
+border-radius: 10px;
+width: 400px;
+padding: 20px;
+box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.247);
+
+}
+
+div{
+    text-align: center;
+
+}
+footer{
+    text-align: center;
+
+}
